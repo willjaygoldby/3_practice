@@ -28,6 +28,9 @@ def A_new_function_that_adds(x,y):
 def A_new_function_that_subtracts(x,y):
     return x - y
 
+def a_new_function_that_multiplys(x,y):
+	return x * y
+
 
 
 
