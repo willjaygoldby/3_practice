@@ -17,7 +17,34 @@ def bsearch(datalist, key):
     return bs_helper(datalist, key, -1, len(datalist))
 
 my_list = [1,3,5,6,7,8,88,99,111,345,677,8765,23456,23454343,675464,2343536546]
-print(bsearch(my_list, 345))
 
 
 """This are some technical specifications for this code"""
+
+def A_new_function_that_adds(x,y):
+        return x + y
+
+
+def A_new_function_that_subtracts(x,y):
+    return x - y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
