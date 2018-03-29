@@ -21,3 +21,8 @@ print(bsearch(my_list, 345))
 
 
 """This are some technical specifications for this code"""
+
+def A_new_function_that_adds(x,y):
+        return x + y
+
+print(A_new_function_that_adds(4,5))
